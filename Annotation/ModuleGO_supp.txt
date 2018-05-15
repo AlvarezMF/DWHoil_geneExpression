@@ -1,0 +1,772 @@
+KS_qvalue module GOterm GOname
+0.0252 blue GO:0000003 reproduction
+0.0274 blue GO:0000338 protein deneddylation
+0.0182 blue GO:0006082 organic acid metabolic process
+0.0341 blue GO:0006090 pyruvate metabolic process
+0.0409 blue GO:0006094 gluconeogenesis
+0 blue GO:0006139 nucleobase-containing compound metabolic process
+0.0423 blue GO:0006325 chromatin organization
+0 blue GO:0006351 transcription, DNA-templated
+1e-04 blue GO:0006355 regulation of transcription, DNA-templated
+0.0016 blue GO:0006396 RNA processing
+0.0127 blue GO:0006412 translation
+0.0372 blue GO:0006464 cellular protein modification process
+0.0487 blue GO:0006498 N-terminal protein lipidation
+0.0487 blue GO:0006499 N-terminal protein myristoylation
+0.0383 blue GO:0006508 proteolysis
+0.0211 blue GO:0006518 peptide metabolic process
+2e-04 blue GO:0006725 cellular aromatic compound metabolic process
+0.0423 blue GO:0006753 nucleoside phosphate metabolic process
+1e-04 blue GO:0006807 nitrogen compound metabolic process
+0.047 blue GO:0006886 intracellular protein transport
+0.024 blue GO:0006914 autophagy
+0.0211 blue GO:0006950 response to stress
+0.0252 blue GO:0006952 defense response
+0.0423 blue GO:0006955 immune response
+0.047 blue GO:0006986 response to unfolded protein
+0.002 blue GO:0006996 organelle organization
+0.0308 blue GO:0007010 cytoskeleton organization
+0.0409 blue GO:0007049 cell cycle
+0.0248 blue GO:0007275 multicellular organism development
+0.0423 blue GO:0008104 protein localization
+0 blue GO:0008150 biological_process
+0 blue GO:0008152 metabolic process
+0.0423 blue GO:0008219 cell death
+0.0281 blue GO:0008380 RNA splicing
+0.0315 blue GO:0009056 catabolic process
+0.0246 blue GO:0009057 macromolecule catabolic process
+0 blue GO:0009058 biosynthetic process
+0 blue GO:0009059 macromolecule biosynthetic process
+0.0423 blue GO:0009117 nucleotide metabolic process
+0.0487 blue GO:0009165 nucleotide biosynthetic process
+0.0487 blue GO:0009259 ribonucleotide metabolic process
+0.047 blue GO:0009555 pollen development
+0.0487 blue GO:0009605 response to external stimulus
+0.0419 blue GO:0009607 response to biotic stimulus
+0.0423 blue GO:0009628 response to abiotic stimulus
+0.0185 blue GO:0009640 photomorphogenesis
+0.0423 blue GO:0009658 chloroplast organization
+0 blue GO:0009889 regulation of biosynthetic process
+0.0015 blue GO:0009891 positive regulation of biosynthetic process
+0.0487 blue GO:0009892 negative regulation of metabolic process
+6e-04 blue GO:0009893 positive regulation of metabolic process
+0 blue GO:0009987 cellular process
+0.0409 blue GO:0010033 response to organic substance
+0.0363 blue GO:0010035 response to inorganic substance
+0.041 blue GO:0010038 response to metal ion
+0.0409 blue GO:0010090 trichome morphogenesis
+0.0274 blue GO:0010388 cullin deneddylation
+0 blue GO:0010467 gene expression
+0 blue GO:0010468 regulation of gene expression
+0 blue GO:0010556 regulation of macromolecule biosynthetic process
+0.0018 blue GO:0010557 positive regulation of macromolecule biosynthetic process
+0.044 blue GO:0010558 negative regulation of macromolecule biosynthetic process
+0.0013 blue GO:0010604 positive regulation of macromolecule metabolic process
+0.0423 blue GO:0010605 negative regulation of macromolecule metabolic process
+0.0302 blue GO:0010608 posttranscriptional regulation of gene expression
+0.0018 blue GO:0010628 positive regulation of gene expression
+0.0423 blue GO:0010629 negative regulation of gene expression
+0.0462 blue GO:0012501 programmed cell death
+0.0409 blue GO:0015031 protein transport
+0.0423 blue GO:0015980 energy derivation by oxidation of organic compounds
+2e-04 blue GO:0016043 cellular component organization
+0.047 blue GO:0016051 carbohydrate biosynthetic process
+0 blue GO:0016070 RNA metabolic process
+0.0409 blue GO:0016246 RNA interference
+0.0252 blue GO:0016441 posttranscriptional gene silencing
+0.0248 blue GO:0016458 gene silencing
+0.0419 blue GO:0016567 protein ubiquitination
+0.0054 blue GO:0016579 protein deubiquitination
+0.0268 blue GO:0017148 negative regulation of translation
+1e-04 blue GO:0018130 heterocycle biosynthetic process
+0.0487 blue GO:0018377 protein myristoylation
+2e-04 blue GO:0019219 regulation of nucleobase-containing compound metabolic process
+0.0363 blue GO:0019220 regulation of phosphate metabolic process
+0 blue GO:0019222 regulation of metabolic process
+0.0409 blue GO:0019319 hexose biosynthetic process
+1e-04 blue GO:0019438 aromatic compound biosynthetic process
+0.0054 blue GO:0019538 protein metabolic process
+0.0423 blue GO:0019637 organophosphate metabolic process
+0.047 blue GO:0019693 ribose phosphate metabolic process
+0.0198 blue GO:0019752 carboxylic acid metabolic process
+0.0385 blue GO:0022402 cell cycle process
+0.0252 blue GO:0022414 reproductive process
+0.0372 blue GO:0030968 endoplasmic reticulum unfolded protein response
+0.014 blue GO:0031047 gene silencing by RNA
+0.0487 blue GO:0031050 dsRNA fragmentation
+0 blue GO:0031323 regulation of cellular metabolic process
+0.0464 blue GO:0031324 negative regulation of cellular metabolic process
+0.001 blue GO:0031325 positive regulation of cellular metabolic process
+0 blue GO:0031326 regulation of cellular biosynthetic process
+0.0034 blue GO:0031328 positive regulation of cellular biosynthetic process
+0.0487 blue GO:0031399 regulation of protein modification process
+0.0248 blue GO:0032268 regulation of cellular protein metabolic process
+0.0423 blue GO:0032269 negative regulation of cellular protein metabolic process
+0.0253 blue GO:0032446 protein modification by small protein conjugation
+0.0252 blue GO:0032501 multicellular organismal process
+0.0341 blue GO:0032502 developmental process
+0 blue GO:0032774 RNA biosynthetic process
+0.0306 blue GO:0032787 monocarboxylic acid metabolic process
+0.0248 blue GO:0033036 macromolecule localization
+0.0424 blue GO:0033365 protein localization to organelle
+0.0268 blue GO:0034249 negative regulation of cellular amide metabolic process
+0.0479 blue GO:0034470 ncRNA processing
+0.0423 blue GO:0034613 cellular protein localization
+0.047 blue GO:0034620 cellular response to unfolded protein
+1e-04 blue GO:0034641 cellular nitrogen compound metabolic process
+0 blue GO:0034645 cellular macromolecule biosynthetic process
+1e-04 blue GO:0034654 nucleobase-containing compound biosynthetic process
+0.0409 blue GO:0034660 ncRNA metabolic process
+0.0341 blue GO:0035194 posttranscriptional gene silencing by RNA
+0.0423 blue GO:0035195 gene silencing by miRNA
+0.0487 blue GO:0035196 production of miRNAs involved in gene silencing by miRNA
+0.0409 blue GO:0035303 regulation of dephosphorylation
+0.0409 blue GO:0035304 regulation of protein dephosphorylation
+0.047 blue GO:0035967 cellular response to topologically incorrect protein
+0.0372 blue GO:0036211 protein modification process
+0.0092 blue GO:0040029 regulation of gene expression, epigenetic
+0.0252 blue GO:0042221 response to chemical
+0.0151 blue GO:0043043 peptide biosynthetic process
+0 blue GO:0043170 macromolecule metabolic process
+0.0419 blue GO:0043207 response to external biotic stimulus
+0.0487 blue GO:0043331 response to dsRNA
+0.0487 blue GO:0043412 macromolecule modification
+0.0167 blue GO:0043436 oxoacid metabolic process
+0.0487 blue GO:0043543 protein acylation
+0.0236 blue GO:0043603 cellular amide metabolic process
+0.0124 blue GO:0043604 amide biosynthetic process
+0.043 blue GO:0043687 post-translational protein modification
+0.0423 blue GO:0043933 macromolecular complex subunit organization
+0.0423 blue GO:0044085 cellular component biogenesis
+0 blue GO:0044237 cellular metabolic process
+0 blue GO:0044238 primary metabolic process
+0 blue GO:0044249 cellular biosynthetic process
+0 blue GO:0044260 cellular macromolecule metabolic process
+0.0428 blue GO:0044265 cellular macromolecule catabolic process
+0.0069 blue GO:0044267 cellular protein metabolic process
+0 blue GO:0044271 cellular nitrogen compound biosynthetic process
+0.0341 blue GO:0044281 small molecule metabolic process
+0.0302 blue GO:0044283 small molecule biosynthetic process
+0 blue GO:0044699 single-organism process
+0.0161 blue GO:0044702 single organism reproductive process
+0.0252 blue GO:0044707 single-multicellular organism process
+0.0054 blue GO:0044710 single-organism metabolic process
+0.0341 blue GO:0044711 single-organism biosynthetic process
+0 blue GO:0044763 single-organism cellular process
+0.0341 blue GO:0044767 single-organism developmental process
+0.0372 blue GO:0045087 innate immune response
+0.0409 blue GO:0045184 establishment of protein localization
+0.0423 blue GO:0045333 cellular respiration
+0.0022 blue GO:0045893 positive regulation of transcription, DNA-templated
+0.0019 blue GO:0045935 positive regulation of nucleobase-containing compound metabolic process
+0.0409 blue GO:0046364 monosaccharide biosynthetic process
+1e-04 blue GO:0046483 heterocycle metabolic process
+0.0423 blue GO:0046686 response to cadmium ion
+0.0315 blue GO:0048444 floral organ morphogenesis
+0.0016 blue GO:0048518 positive regulation of biological process
+0.043 blue GO:0048519 negative regulation of biological process
+0.0014 blue GO:0048522 positive regulation of cellular process
+0.0353 blue GO:0048523 negative regulation of cellular process
+0.0409 blue GO:0048583 regulation of response to stimulus
+0.0287 blue GO:0048856 anatomical structure development
+1e-04 blue GO:0050789 regulation of biological process
+1e-04 blue GO:0050794 regulation of cellular process
+0.003 blue GO:0050896 response to stimulus
+0.041 blue GO:0051128 regulation of cellular component organization
+0 blue GO:0051171 regulation of nitrogen compound metabolic process
+0.0015 blue GO:0051173 positive regulation of nitrogen compound metabolic process
+0.0363 blue GO:0051174 regulation of phosphorus metabolic process
+0.033 blue GO:0051179 localization
+0.0219 blue GO:0051246 regulation of protein metabolic process
+0.0383 blue GO:0051248 negative regulation of protein metabolic process
+1e-04 blue GO:0051252 regulation of RNA metabolic process
+0.0022 blue GO:0051254 positive regulation of RNA metabolic process
+0.0363 blue GO:0051640 organelle localization
+0.0409 blue GO:0051641 cellular localization
+0.0246 blue GO:0051704 multi-organism process
+0.0419 blue GO:0051707 response to other organism
+0 blue GO:0060255 regulation of macromolecule metabolic process
+4e-04 blue GO:0065007 biological regulation
+0.047 blue GO:0070646 protein modification by small protein removal
+0.0488 blue GO:0070647 protein modification by small protein conjugation or removal
+0.0353 blue GO:0070727 cellular macromolecule localization
+0.0423 blue GO:0070887 cellular response to chemical stimulus
+0.0487 blue GO:0070918 production of small RNA involved in gene silencing by RNA
+0.0487 blue GO:0071359 cellular response to dsRNA
+0.0409 blue GO:0071407 cellular response to organic cyclic compound
+0.0434 blue GO:0071702 organic substance transport
+0 blue GO:0071704 organic substance metabolic process
+1e-04 blue GO:0071840 cellular component organization or biogenesis
+0 blue GO:0080090 regulation of primary metabolic process
+0.044 blue GO:0080134 regulation of response to stress
+0 blue GO:0090304 nucleic acid metabolic process
+0 blue GO:0097659 nucleic acid-templated transcription
+0.0409 blue GO:0098542 defense response to other organism
+0.0487 blue GO:0098771 inorganic ion homeostasis
+0.0487 blue GO:1901293 nucleoside phosphate biosynthetic process
+8e-04 blue GO:1901360 organic cyclic compound metabolic process
+5e-04 blue GO:1901362 organic cyclic compound biosynthetic process
+0.0424 blue GO:1901566 organonitrogen compound biosynthetic process
+0.0268 blue GO:1901575 organic substance catabolic process
+0 blue GO:1901576 organic substance biosynthetic process
+0.0423 blue GO:1902589 single-organism organelle organization
+0.0022 blue GO:1902680 positive regulation of RNA biosynthetic process
+1e-04 blue GO:1903506 regulation of nucleic acid-templated transcription
+0.0022 blue GO:1903508 positive regulation of nucleic acid-templated transcription
+0 blue GO:2000112 regulation of cellular macromolecule biosynthetic process
+0.044 blue GO:2000113 negative regulation of cellular macromolecule biosynthetic process
+1e-04 blue GO:2001141 regulation of RNA biosynthetic process
+0.0101 brown GO:0006082 organic acid metabolic process
+0.025 brown GO:0006091 generation of precursor metabolites and energy
+0.0326 brown GO:0006511 ubiquitin-dependent protein catabolic process
+0.0053 brown GO:0006534 cysteine metabolic process
+0.0488 brown GO:0006629 lipid metabolic process
+0.047 brown GO:0006720 isoprenoid metabolic process
+0.0178 brown GO:0006721 terpenoid metabolic process
+0.0142 brown GO:0006732 coenzyme metabolic process
+0.0488 brown GO:0006733 oxidoreduction coenzyme metabolic process
+0.0488 brown GO:0006753 nucleoside phosphate metabolic process
+0.0265 brown GO:0006778 porphyrin-containing compound metabolic process
+0.0093 brown GO:0006779 porphyrin-containing compound biosynthetic process
+0.0017 brown GO:0006793 phosphorus metabolic process
+0.0017 brown GO:0006796 phosphate-containing compound metabolic process
+0 brown GO:0008150 biological_process
+0.0093 brown GO:0008152 metabolic process
+0.0381 brown GO:0008610 lipid biosynthetic process
+0.0093 brown GO:0009056 catabolic process
+0.0093 brown GO:0009069 serine family amino acid metabolic process
+0.0053 brown GO:0009070 serine family amino acid biosynthetic process
+0.0488 brown GO:0009117 nucleotide metabolic process
+0.0488 brown GO:0009314 response to radiation
+0.0427 brown GO:0009411 response to UV
+0.0488 brown GO:0009416 response to light stimulus
+0.0324 brown GO:0009628 response to abiotic stimulus
+0.0486 brown GO:0009653 anatomical structure morphogenesis
+0.0289 brown GO:0009987 cellular process
+0.0333 brown GO:0010075 regulation of meristem growth
+0.0419 brown GO:0010103 stomatal complex morphogenesis
+0.0234 brown GO:0015979 photosynthesis
+0.0377 brown GO:0015994 chlorophyll metabolic process
+0.0124 brown GO:0015995 chlorophyll biosynthetic process
+0.0468 brown GO:0016052 carbohydrate catabolic process
+0.0093 brown GO:0016053 organic acid biosynthetic process
+0.047 brown GO:0016108 tetraterpenoid metabolic process
+0.047 brown GO:0016109 tetraterpenoid biosynthetic process
+0.0351 brown GO:0016114 terpenoid biosynthetic process
+0.047 brown GO:0016116 carotenoid metabolic process
+0.047 brown GO:0016117 carotenoid biosynthetic process
+0.0072 brown GO:0016310 phosphorylation
+0.0357 brown GO:0019220 regulation of phosphate metabolic process
+0.0053 brown GO:0019344 cysteine biosynthetic process
+0.0101 brown GO:0019637 organophosphate metabolic process
+0.0293 brown GO:0019752 carboxylic acid metabolic process
+0.0377 brown GO:0019941 modification-dependent protein catabolic process
+0.0468 brown GO:0030163 protein catabolic process
+0.0357 brown GO:0031399 regulation of protein modification process
+0.0236 brown GO:0032787 monocarboxylic acid metabolic process
+0.0265 brown GO:0033013 tetrapyrrole metabolic process
+0.0093 brown GO:0033014 tetrapyrrole biosynthetic process
+0.0333 brown GO:0035266 meristem growth
+0.047 brown GO:0035303 regulation of dephosphorylation
+0.047 brown GO:0035304 regulation of protein dephosphorylation
+0.0277 brown GO:0040008 regulation of growth
+0.0229 brown GO:0042180 cellular ketone metabolic process
+0.047 brown GO:0042440 pigment metabolic process
+0.0419 brown GO:0043436 oxoacid metabolic process
+0.0377 brown GO:0043632 modification-dependent macromolecule catabolic process
+0.0145 brown GO:0044237 cellular metabolic process
+0.026 brown GO:0044238 primary metabolic process
+0.047 brown GO:0044255 cellular lipid metabolic process
+0.0468 brown GO:0044257 cellular protein catabolic process
+0.0031 brown GO:0044281 small molecule metabolic process
+0.0039 brown GO:0044283 small molecule biosynthetic process
+0.0301 brown GO:0044699 single-organism process
+0.0167 brown GO:0044710 single-organism metabolic process
+0.0101 brown GO:0044711 single-organism biosynthetic process
+0.0236 brown GO:0044763 single-organism cellular process
+0.0176 brown GO:0046148 pigment biosynthetic process
+0.0377 brown GO:0048638 regulation of developmental growth
+0.0488 brown GO:0050801 ion homeostasis
+0.0449 brown GO:0050896 response to stimulus
+0.0357 brown GO:0051174 regulation of phosphorus metabolic process
+0.0142 brown GO:0051186 cofactor metabolic process
+0.0222 brown GO:0051188 cofactor biosynthetic process
+0.0357 brown GO:0055086 nucleobase-containing small molecule metabolic process
+0.0193 brown GO:0071704 organic substance metabolic process
+0.0377 brown GO:0072521 purine-containing compound metabolic process
+0.0332 brown GO:0090558 plant epidermis development
+0.0488 brown GO:0090626 plant epidermis morphogenesis
+0.009 brown GO:1901575 organic substance catabolic process
+0.0112 brown GO:1901605 alpha-amino acid metabolic process
+0.0053 brown GO:1901607 alpha-amino acid biosynthetic process
+0.047 brown GO:1905392 plant organ morphogenesis
+0.023 darkgreen GO:0005975 carbohydrate metabolic process
+0.023 darkgreen GO:0016051 carbohydrate biosynthetic process
+0.023 darkgreen GO:0044723 single-organism carbohydrate metabolic process
+0.0475 green GO:0006464 cellular protein modification process
+0.0475 green GO:0007154 cell communication
+0 green GO:0008150 biological_process
+0.0475 green GO:0009059 macromolecule biosynthetic process
+0.0475 green GO:0009658 chloroplast organization
+0.0475 green GO:0009902 chloroplast relocation
+0.0069 green GO:0009987 cellular process
+0.0475 green GO:0019750 chloroplast localization
+0.0475 green GO:0023052 signaling
+0.0475 green GO:0034645 cellular macromolecule biosynthetic process
+0.0475 green GO:0036211 protein modification process
+0.0475 green GO:0044237 cellular metabolic process
+0.0475 green GO:0044249 cellular biosynthetic process
+0.0445 green GO:0044260 cellular macromolecule metabolic process
+0.0475 green GO:0044699 single-organism process
+0.0475 green GO:0044700 single organism signaling
+0.0475 green GO:0044763 single-organism cellular process
+0.0475 green GO:0050896 response to stimulus
+0.0475 green GO:0051644 plastid localization
+0.0475 green GO:0051667 establishment of plastid localization
+0.0475 green GO:0065007 biological regulation
+0.0103 purple GO:0000278 mitotic cell cycle
+0.0377 purple GO:0006082 organic acid metabolic process
+0.0103 purple GO:0006139 nucleobase-containing compound metabolic process
+0.0397 purple GO:0006259 DNA metabolic process
+0.0459 purple GO:0006351 transcription, DNA-templated
+0.0397 purple GO:0006355 regulation of transcription, DNA-templated
+0.0377 purple GO:0006629 lipid metabolic process
+0.0103 purple GO:0006725 cellular aromatic compound metabolic process
+0.0108 purple GO:0006807 nitrogen compound metabolic process
+0.0377 purple GO:0006996 organelle organization
+0.0113 purple GO:0007049 cell cycle
+0.0478 purple GO:0007154 cell communication
+0.0377 purple GO:0007275 multicellular organism development
+0.0299 purple GO:0008150 biological_process
+0.0377 purple GO:0009056 catabolic process
+0.0397 purple GO:0009057 macromolecule catabolic process
+0.0397 purple GO:0009058 biosynthetic process
+0.0459 purple GO:0009059 macromolecule biosynthetic process
+0.0377 purple GO:0009314 response to radiation
+0.0377 purple GO:0009416 response to light stimulus
+0.0382 purple GO:0009605 response to external stimulus
+0.0397 purple GO:0009628 response to abiotic stimulus
+0.0377 purple GO:0009653 anatomical structure morphogenesis
+0.0397 purple GO:0009790 embryo development
+0.048 purple GO:0009791 post-embryonic development
+0.0295 purple GO:0009888 tissue development
+0.0377 purple GO:0009889 regulation of biosynthetic process
+0.0377 purple GO:0009890 negative regulation of biosynthetic process
+0.0377 purple GO:0009892 negative regulation of metabolic process
+0.0377 purple GO:0009987 cellular process
+0.0377 purple GO:0010035 response to inorganic substance
+0.0397 purple GO:0010467 gene expression
+0.0397 purple GO:0010468 regulation of gene expression
+0.0397 purple GO:0010556 regulation of macromolecule biosynthetic process
+0.0377 purple GO:0010558 negative regulation of macromolecule biosynthetic process
+0.0377 purple GO:0010605 negative regulation of macromolecule metabolic process
+0.0377 purple GO:0010629 negative regulation of gene expression
+0.0377 purple GO:0016043 cellular component organization
+0.0315 purple GO:0016070 RNA metabolic process
+0.0397 purple GO:0018130 heterocycle biosynthetic process
+0.0397 purple GO:0019219 regulation of nucleobase-containing compound metabolic process
+0.0377 purple GO:0019222 regulation of metabolic process
+0.0397 purple GO:0019438 aromatic compound biosynthetic process
+0.0377 purple GO:0019637 organophosphate metabolic process
+0.0377 purple GO:0019752 carboxylic acid metabolic process
+0.0377 purple GO:0022402 cell cycle process
+0.0377 purple GO:0022607 cellular component assembly
+0.0377 purple GO:0030154 cell differentiation
+0.0377 purple GO:0031323 regulation of cellular metabolic process
+0.0377 purple GO:0031324 negative regulation of cellular metabolic process
+0.0397 purple GO:0031326 regulation of cellular biosynthetic process
+0.0377 purple GO:0031327 negative regulation of cellular biosynthetic process
+0.0377 purple GO:0032501 multicellular organismal process
+0.0377 purple GO:0032502 developmental process
+0.0459 purple GO:0032774 RNA biosynthetic process
+0.0459 purple GO:0032787 monocarboxylic acid metabolic process
+0.0428 purple GO:0033554 cellular response to stress
+0.0103 purple GO:0034641 cellular nitrogen compound metabolic process
+0.0397 purple GO:0034645 cellular macromolecule biosynthetic process
+0.0468 purple GO:0034654 nucleobase-containing compound biosynthetic process
+0.0377 purple GO:0043436 oxoacid metabolic process
+0.0377 purple GO:0043933 macromolecular complex subunit organization
+0.0397 purple GO:0044237 cellular metabolic process
+0.0397 purple GO:0044248 cellular catabolic process
+0.0397 purple GO:0044249 cellular biosynthetic process
+0.0397 purple GO:0044255 cellular lipid metabolic process
+0.0397 purple GO:0044265 cellular macromolecule catabolic process
+0.0377 purple GO:0044271 cellular nitrogen compound biosynthetic process
+0.0377 purple GO:0044281 small molecule metabolic process
+0.0397 purple GO:0044283 small molecule biosynthetic process
+0.0397 purple GO:0044699 single-organism process
+0.0377 purple GO:0044707 single-multicellular organism process
+0.0497 purple GO:0044710 single-organism metabolic process
+0.0377 purple GO:0044712 single-organism catabolic process
+0.0377 purple GO:0044763 single-organism cellular process
+0.0377 purple GO:0044767 single-organism developmental process
+0.0103 purple GO:0046483 heterocycle metabolic process
+0.0489 purple GO:0048367 shoot system development
+0.0377 purple GO:0048519 negative regulation of biological process
+0.0377 purple GO:0048522 positive regulation of cellular process
+0.0377 purple GO:0048523 negative regulation of cellular process
+0.0489 purple GO:0048608 reproductive structure development
+0.0397 purple GO:0048731 system development
+0.0377 purple GO:0048856 anatomical structure development
+0.0299 purple GO:0048869 cellular developmental process
+0.0397 purple GO:0050896 response to stimulus
+0.0459 purple GO:0051171 regulation of nitrogen compound metabolic process
+0.0377 purple GO:0051172 negative regulation of nitrogen compound metabolic process
+0.0377 purple GO:0051252 regulation of RNA metabolic process
+0.0377 purple GO:0051716 cellular response to stimulus
+0.0397 purple GO:0060255 regulation of macromolecule metabolic process
+0.0489 purple GO:0061458 reproductive system development
+0.0377 purple GO:0071840 cellular component organization or biogenesis
+0.0377 purple GO:0080090 regulation of primary metabolic process
+0.0168 purple GO:0090304 nucleic acid metabolic process
+0.0251 purple GO:0090558 plant epidermis development
+0.0459 purple GO:0097659 nucleic acid-templated transcription
+0.0377 purple GO:0099402 plant organ development
+0.0397 purple GO:1901135 carbohydrate derivative metabolic process
+0.0113 purple GO:1901360 organic cyclic compound metabolic process
+0.0397 purple GO:1901362 organic cyclic compound biosynthetic process
+0.0261 purple GO:1901564 organonitrogen compound metabolic process
+0.0375 purple GO:1901566 organonitrogen compound biosynthetic process
+0.0377 purple GO:1901575 organic substance catabolic process
+0.0397 purple GO:1901576 organic substance biosynthetic process
+0.0377 purple GO:1902589 single-organism organelle organization
+0.0397 purple GO:1903506 regulation of nucleic acid-templated transcription
+0.0397 purple GO:2000112 regulation of cellular macromolecule biosynthetic process
+0.0377 purple GO:2000113 negative regulation of cellular macromolecule biosynthetic process
+0.0397 purple GO:2001141 regulation of RNA biosynthetic process
+0 red GO:0008150 biological_process
+0.012 turquoise GO:0000003 reproduction
+0.0475 turquoise GO:0000023 maltose metabolic process
+0.0489 turquoise GO:0000278 mitotic cell cycle
+0.0297 turquoise GO:0000281 mitotic cytokinesis
+0.0297 turquoise GO:0000910 cytokinesis
+0.0297 turquoise GO:0000911 cytokinesis by cell plate formation
+0.0251 turquoise GO:0003006 developmental process involved in reproduction
+0.007 turquoise GO:0005975 carbohydrate metabolic process
+0.0351 turquoise GO:0005984 disaccharide metabolic process
+0.0036 turquoise GO:0005996 monosaccharide metabolic process
+0.0068 turquoise GO:0006006 glucose metabolic process
+0.0438 turquoise GO:0006007 glucose catabolic process
+0.0268 turquoise GO:0006081 cellular aldehyde metabolic process
+1e-04 turquoise GO:0006082 organic acid metabolic process
+0.0391 turquoise GO:0006089 lactate metabolic process
+0.0402 turquoise GO:0006090 pyruvate metabolic process
+0.0448 turquoise GO:0006091 generation of precursor metabolites and energy
+0.002 turquoise GO:0006094 gluconeogenesis
+3e-04 turquoise GO:0006139 nucleobase-containing compound metabolic process
+0.0297 turquoise GO:0006220 pyrimidine nucleotide metabolic process
+0.0297 turquoise GO:0006221 pyrimidine nucleotide biosynthetic process
+0.0297 turquoise GO:0006259 DNA metabolic process
+0.001 turquoise GO:0006351 transcription, DNA-templated
+0.0018 turquoise GO:0006355 regulation of transcription, DNA-templated
+0.0089 turquoise GO:0006364 rRNA processing
+0.0438 turquoise GO:0006464 cellular protein modification process
+0.0281 turquoise GO:0006470 protein dephosphorylation
+0.0055 turquoise GO:0006508 proteolysis
+0.0069 turquoise GO:0006625 protein targeting to peroxisome
+0.0189 turquoise GO:0006629 lipid metabolic process
+0.0068 turquoise GO:0006631 fatty acid metabolic process
+0.0261 turquoise GO:0006635 fatty acid beta-oxidation
+0.0297 turquoise GO:0006720 isoprenoid metabolic process
+1e-04 turquoise GO:0006725 cellular aromatic compound metabolic process
+0.019 turquoise GO:0006753 nucleoside phosphate metabolic process
+0.0442 turquoise GO:0006779 porphyrin-containing compound biosynthetic process
+0.0309 turquoise GO:0006793 phosphorus metabolic process
+0.0314 turquoise GO:0006796 phosphate-containing compound metabolic process
+1e-04 turquoise GO:0006807 nitrogen compound metabolic process
+0.003 turquoise GO:0006810 transport
+0.0194 turquoise GO:0006811 ion transport
+0.012 turquoise GO:0006812 cation transport
+0.0408 turquoise GO:0006816 calcium ion transport
+0.0121 turquoise GO:0006873 cellular ion homeostasis
+0.0242 turquoise GO:0006875 cellular metal ion homeostasis
+0.0161 turquoise GO:0006950 response to stress
+0.001 turquoise GO:0006996 organelle organization
+0.0459 turquoise GO:0006997 nucleus organization
+0.0147 turquoise GO:0007010 cytoskeleton organization
+0.0301 turquoise GO:0007017 microtubule-based process
+0.002 turquoise GO:0007031 peroxisome organization
+0.0145 turquoise GO:0007049 cell cycle
+0.0026 turquoise GO:0007275 multicellular organism development
+0 turquoise GO:0008150 biological_process
+0 turquoise GO:0008152 metabolic process
+0.0391 turquoise GO:0008299 isoprenoid biosynthetic process
+0 turquoise GO:0009056 catabolic process
+0.002 turquoise GO:0009057 macromolecule catabolic process
+0 turquoise GO:0009058 biosynthetic process
+7e-04 turquoise GO:0009059 macromolecule biosynthetic process
+0.0101 turquoise GO:0009062 fatty acid catabolic process
+0.0438 turquoise GO:0009070 serine family amino acid biosynthetic process
+0.0492 turquoise GO:0009073 aromatic amino acid family biosynthetic process
+0.019 turquoise GO:0009117 nucleotide metabolic process
+0.0078 turquoise GO:0009165 nucleotide biosynthetic process
+0.0297 turquoise GO:0009218 pyrimidine ribonucleotide metabolic process
+0.0297 turquoise GO:0009220 pyrimidine ribonucleotide biosynthetic process
+0.0281 turquoise GO:0009259 ribonucleotide metabolic process
+0.0199 turquoise GO:0009260 ribonucleotide biosynthetic process
+0.0408 turquoise GO:0009266 response to temperature stimulus
+0.0224 turquoise GO:0009308 amine metabolic process
+0.0427 turquoise GO:0009311 oligosaccharide metabolic process
+0.0185 turquoise GO:0009314 response to radiation
+0.0413 turquoise GO:0009409 response to cold
+0.0391 turquoise GO:0009438 methylglyoxal metabolic process
+0.044 turquoise GO:0009555 pollen development
+0.0147 turquoise GO:0009611 response to wounding
+0.0419 turquoise GO:0009628 response to abiotic stimulus
+0.0199 turquoise GO:0009639 response to red or far red light
+0.0498 turquoise GO:0009640 photomorphogenesis
+0.0413 turquoise GO:0009653 anatomical structure morphogenesis
+0.0397 turquoise GO:0009657 plastid organization
+0.0498 turquoise GO:0009658 chloroplast organization
+3e-04 turquoise GO:0009719 response to endogenous stimulus
+0.001 turquoise GO:0009725 response to hormone
+0.0483 turquoise GO:0009735 response to cytokinin
+0.0242 turquoise GO:0009737 response to abscisic acid
+0.0297 turquoise GO:0009791 post-embryonic development
+0.0314 turquoise GO:0009850 auxin metabolic process
+8e-04 turquoise GO:0009889 regulation of biosynthetic process
+0.0252 turquoise GO:0009890 negative regulation of biosynthetic process
+0.0223 turquoise GO:0009892 negative regulation of metabolic process
+0.0429 turquoise GO:0009902 chloroplast relocation
+0.0281 turquoise GO:0009908 flower development
+0.0119 turquoise GO:0009909 regulation of flower development
+0.0146 turquoise GO:0009910 negative regulation of flower development
+0.0494 turquoise GO:0009932 cell tip growth
+0 turquoise GO:0009987 cellular process
+0.0438 turquoise GO:0010015 root morphogenesis
+1e-04 turquoise GO:0010033 response to organic substance
+0.0185 turquoise GO:0010039 response to iron ion
+0.0391 turquoise GO:0010048 vernalization response
+0.0321 turquoise GO:0010053 root epidermal cell differentiation
+0.0427 turquoise GO:0010154 fruit development
+0.0295 turquoise GO:0010212 response to ionizing radiation
+0.0483 turquoise GO:0010410 hemicellulose metabolic process
+0.0483 turquoise GO:0010413 glucuronoxylan metabolic process
+3e-04 turquoise GO:0010467 gene expression
+5e-04 turquoise GO:0010468 regulation of gene expression
+0.0068 turquoise GO:0010498 proteasomal protein catabolic process
+7e-04 turquoise GO:0010556 regulation of macromolecule biosynthetic process
+0.0283 turquoise GO:0010558 negative regulation of macromolecule biosynthetic process
+0.0251 turquoise GO:0010605 negative regulation of macromolecule metabolic process
+0.0393 turquoise GO:0010629 negative regulation of gene expression
+0.0175 turquoise GO:0010817 regulation of hormone levels
+0.0314 turquoise GO:0015711 organic anion transport
+0.0468 turquoise GO:0015931 nucleobase-containing compound transport
+0.027 turquoise GO:0015979 photosynthesis
+0.007 turquoise GO:0016042 lipid catabolic process
+7e-04 turquoise GO:0016043 cellular component organization
+0.0044 turquoise GO:0016051 carbohydrate biosynthetic process
+0.0432 turquoise GO:0016052 carbohydrate catabolic process
+0.0347 turquoise GO:0016053 organic acid biosynthetic process
+0.0054 turquoise GO:0016054 organic acid catabolic process
+0.0052 turquoise GO:0016070 RNA metabolic process
+0.0089 turquoise GO:0016072 rRNA metabolic process
+0.0281 turquoise GO:0016311 dephosphorylation
+0.0069 turquoise GO:0016558 protein import into peroxisome matrix
+0.0128 turquoise GO:0017038 protein import
+1e-04 turquoise GO:0018130 heterocycle biosynthetic process
+0.0017 turquoise GO:0019219 regulation of nucleobase-containing compound metabolic process
+0.0098 turquoise GO:0019220 regulation of phosphate metabolic process
+5e-04 turquoise GO:0019222 regulation of metabolic process
+0.0391 turquoise GO:0019243 methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+0.0039 turquoise GO:0019318 hexose metabolic process
+0.0038 turquoise GO:0019319 hexose biosynthetic process
+0.0161 turquoise GO:0019320 hexose catabolic process
+0.0261 turquoise GO:0019395 fatty acid oxidation
+1e-04 turquoise GO:0019438 aromatic compound biosynthetic process
+0.001 turquoise GO:0019538 protein metabolic process
+0.0268 turquoise GO:0019637 organophosphate metabolic process
+0.0481 turquoise GO:0019693 ribose phosphate metabolic process
+7e-04 turquoise GO:0019725 cellular homeostasis
+1e-04 turquoise GO:0019752 carboxylic acid metabolic process
+0.017 turquoise GO:0021700 developmental maturation
+0.0147 turquoise GO:0022402 cell cycle process
+0.012 turquoise GO:0022414 reproductive process
+0.0062 turquoise GO:0022613 ribonucleoprotein complex biogenesis
+0.0268 turquoise GO:0022622 root system development
+0.0203 turquoise GO:0030001 metal ion transport
+0.0051 turquoise GO:0030003 cellular cation homeostasis
+0.0105 turquoise GO:0030154 cell differentiation
+0.007 turquoise GO:0030163 protein catabolic process
+0.0149 turquoise GO:0030258 lipid modification
+3e-04 turquoise GO:0031323 regulation of cellular metabolic process
+0.0233 turquoise GO:0031324 negative regulation of cellular metabolic process
+5e-04 turquoise GO:0031326 regulation of cellular biosynthetic process
+0.0297 turquoise GO:0031327 negative regulation of cellular biosynthetic process
+0.0186 turquoise GO:0031399 regulation of protein modification process
+0.0301 turquoise GO:0032268 regulation of cellular protein metabolic process
+0.0017 turquoise GO:0032501 multicellular organismal process
+0.0062 turquoise GO:0032502 developmental process
+0.0227 turquoise GO:0032504 multicellular organism reproduction
+0.0297 turquoise GO:0032506 cytokinetic process
+0.001 turquoise GO:0032774 RNA biosynthetic process
+0 turquoise GO:0032787 monocarboxylic acid metabolic process
+0.027 turquoise GO:0033036 macromolecule localization
+0.0088 turquoise GO:0033993 response to lipid
+0.0268 turquoise GO:0034440 lipid oxidation
+0.0192 turquoise GO:0034470 ncRNA processing
+1e-04 turquoise GO:0034641 cellular nitrogen compound metabolic process
+8e-04 turquoise GO:0034645 cellular macromolecule biosynthetic process
+1e-04 turquoise GO:0034654 nucleobase-containing compound biosynthetic process
+0.0189 turquoise GO:0034660 ncRNA metabolic process
+0.0192 turquoise GO:0035303 regulation of dephosphorylation
+0.0199 turquoise GO:0035304 regulation of protein dephosphorylation
+0.0438 turquoise GO:0036211 protein modification process
+0.0431 turquoise GO:0040029 regulation of gene expression, epigenetic
+0.0231 turquoise GO:0042180 cellular ketone metabolic process
+0.0391 turquoise GO:0042182 ketone catabolic process
+2e-04 turquoise GO:0042221 response to chemical
+0.0063 turquoise GO:0042254 ribosome biogenesis
+0.0263 turquoise GO:0042445 hormone metabolic process
+0.0408 turquoise GO:0042446 hormone biosynthetic process
+0.0017 turquoise GO:0042592 homeostatic process
+0.0097 turquoise GO:0042793 transcription from plastid promoter
+0 turquoise GO:0043170 macromolecule metabolic process
+0.0213 turquoise GO:0043412 macromolecule modification
+2e-04 turquoise GO:0043436 oxoacid metabolic process
+0.0069 turquoise GO:0043574 peroxisomal transport
+0.0018 turquoise GO:0044085 cellular component biogenesis
+0.0438 turquoise GO:0044106 cellular amine metabolic process
+0 turquoise GO:0044237 cellular metabolic process
+0 turquoise GO:0044238 primary metabolic process
+0.007 turquoise GO:0044242 cellular lipid catabolic process
+0 turquoise GO:0044248 cellular catabolic process
+0 turquoise GO:0044249 cellular biosynthetic process
+0.0342 turquoise GO:0044255 cellular lipid metabolic process
+0.0073 turquoise GO:0044257 cellular protein catabolic process
+0 turquoise GO:0044260 cellular macromolecule metabolic process
+0.003 turquoise GO:0044265 cellular macromolecule catabolic process
+0.001 turquoise GO:0044267 cellular protein metabolic process
+2e-04 turquoise GO:0044271 cellular nitrogen compound biosynthetic process
+0 turquoise GO:0044281 small molecule metabolic process
+1e-04 turquoise GO:0044282 small molecule catabolic process
+0.0095 turquoise GO:0044283 small molecule biosynthetic process
+0 turquoise GO:0044699 single-organism process
+0.0126 turquoise GO:0044702 single organism reproductive process
+0.0024 turquoise GO:0044707 single-multicellular organism process
+0 turquoise GO:0044710 single-organism metabolic process
+0 turquoise GO:0044711 single-organism biosynthetic process
+3e-04 turquoise GO:0044712 single-organism catabolic process
+0.0068 turquoise GO:0044723 single-organism carbohydrate metabolic process
+0.0019 turquoise GO:0044743 intracellular protein transmembrane import
+0 turquoise GO:0044763 single-organism cellular process
+7e-04 turquoise GO:0044765 single-organism transport
+0.0045 turquoise GO:0044767 single-organism developmental process
+0.0483 turquoise GO:0045491 xylan metabolic process
+0.0483 turquoise GO:0045492 xylan biosynthetic process
+0.0405 turquoise GO:0045892 negative regulation of transcription, DNA-templated
+0.0469 turquoise GO:0045934 negative regulation of nucleobase-containing compound metabolic process
+0.0391 turquoise GO:0046185 aldehyde catabolic process
+0.0026 turquoise GO:0046364 monosaccharide biosynthetic process
+0.0161 turquoise GO:0046365 monosaccharide catabolic process
+0.0199 turquoise GO:0046390 ribose phosphate biosynthetic process
+0.0096 turquoise GO:0046395 carboxylic acid catabolic process
+3e-04 turquoise GO:0046483 heterocycle metabolic process
+0.0314 turquoise GO:0046942 carboxylic acid transport
+0.0268 turquoise GO:0048364 root development
+0.0494 turquoise GO:0048440 carpel development
+0.0494 turquoise GO:0048467 gynoecium development
+0.048 turquoise GO:0048468 cell development
+0.0483 turquoise GO:0048469 cell maturation
+0.0022 turquoise GO:0048519 negative regulation of biological process
+0.0297 turquoise GO:0048522 positive regulation of cellular process
+0.0442 turquoise GO:0048523 negative regulation of cellular process
+0.0438 turquoise GO:0048580 regulation of post-embryonic development
+0.019 turquoise GO:0048581 negative regulation of post-embryonic development
+0.0496 turquoise GO:0048608 reproductive structure development
+0.0261 turquoise GO:0048609 multicellular organismal reproductive process
+0.0221 turquoise GO:0048731 system development
+0.0483 turquoise GO:0048764 trichoblast maturation
+0.0483 turquoise GO:0048765 root hair cell differentiation
+0.0157 turquoise GO:0048831 regulation of shoot system development
+0.0066 turquoise GO:0048856 anatomical structure development
+0.0086 turquoise GO:0048869 cellular developmental process
+0.0116 turquoise GO:0048878 chemical homeostasis
+0 turquoise GO:0050789 regulation of biological process
+0.0215 turquoise GO:0050790 regulation of catalytic activity
+0.0175 turquoise GO:0050793 regulation of developmental process
+3e-04 turquoise GO:0050794 regulation of cellular process
+0.012 turquoise GO:0050801 ion homeostasis
+5e-04 turquoise GO:0050896 response to stimulus
+0.0244 turquoise GO:0051093 negative regulation of developmental process
+5e-04 turquoise GO:0051171 regulation of nitrogen compound metabolic process
+0.0437 turquoise GO:0051172 negative regulation of nitrogen compound metabolic process
+0.0098 turquoise GO:0051174 regulation of phosphorus metabolic process
+2e-04 turquoise GO:0051179 localization
+0.0438 turquoise GO:0051186 cofactor metabolic process
+0.0017 turquoise GO:0051234 establishment of localization
+0.039 turquoise GO:0051239 regulation of multicellular organismal process
+0.0244 turquoise GO:0051241 negative regulation of multicellular organismal process
+0.0262 turquoise GO:0051246 regulation of protein metabolic process
+0.001 turquoise GO:0051252 regulation of RNA metabolic process
+0.049 turquoise GO:0051253 negative regulation of RNA metabolic process
+0.0173 turquoise GO:0051301 cell division
+0.0391 turquoise GO:0051596 methylglyoxal catabolic process
+0.0088 turquoise GO:0051603 proteolysis involved in cellular protein catabolic process
+0.0496 turquoise GO:0051640 organelle localization
+0.0242 turquoise GO:0051641 cellular localization
+0.044 turquoise GO:0051649 establishment of localization in cell
+0.0342 turquoise GO:0051656 establishment of organelle localization
+0.0429 turquoise GO:0051667 establishment of plastid localization
+0.0478 turquoise GO:0051704 multi-organism process
+0.0416 turquoise GO:0051726 regulation of cell cycle
+0.0126 turquoise GO:0055080 cation homeostasis
+0.0037 turquoise GO:0055082 cellular chemical homeostasis
+0.0129 turquoise GO:0055085 transmembrane transport
+0.0161 turquoise GO:0055086 nucleobase-containing small molecule metabolic process
+0.0432 turquoise GO:0055114 oxidation-reduction process
+2e-04 turquoise GO:0060255 regulation of macromolecule metabolic process
+0.0496 turquoise GO:0061458 reproductive system development
+0.0297 turquoise GO:0061640 cytoskeleton-dependent cytokinesis
+0.0391 turquoise GO:0061727 methylglyoxal catabolic process to lactate
+0.0019 turquoise GO:0065002 intracellular protein transmembrane transport
+0 turquoise GO:0065007 biological regulation
+7e-04 turquoise GO:0065008 regulation of biological quality
+0.0478 turquoise GO:0070838 divalent metal ion transport
+0.0392 turquoise GO:0071322 cellular response to carbohydrate stimulus
+0.0376 turquoise GO:0071554 cell wall organization or biogenesis
+0.017 turquoise GO:0071702 organic substance transport
+0 turquoise GO:0071704 organic substance metabolic process
+0.0483 turquoise GO:0071705 nitrogen compound transport
+0.0019 turquoise GO:0071806 protein transmembrane transport
+0 turquoise GO:0071840 cellular component organization or biogenesis
+0.0149 turquoise GO:0072329 monocarboxylic acid catabolic process
+0.0221 turquoise GO:0072330 monocarboxylic acid biosynthetic process
+0.0478 turquoise GO:0072511 divalent inorganic cation transport
+0.0397 turquoise GO:0072527 pyrimidine-containing compound metabolic process
+0.0227 turquoise GO:0072528 pyrimidine-containing compound biosynthetic process
+0.0069 turquoise GO:0072662 protein localization to peroxisome
+0.0069 turquoise GO:0072663 establishment of protein localization to peroxisome
+2e-04 turquoise GO:0080090 regulation of primary metabolic process
+0.0095 turquoise GO:0090304 nucleic acid metabolic process
+0.027 turquoise GO:0090407 organophosphate biosynthetic process
+0.0305 turquoise GO:0090567 reproductive shoot system development
+0.0321 turquoise GO:0090627 plant epidermal cell differentiation
+0.0242 turquoise GO:0097305 response to alcohol
+0.001 turquoise GO:0097659 nucleic acid-templated transcription
+0.0452 turquoise GO:0098771 inorganic ion homeostasis
+0.0239 turquoise GO:0099402 plant organ development
+0.0483 turquoise GO:1901135 carbohydrate derivative metabolic process
+0.0078 turquoise GO:1901293 nucleoside phosphate biosynthetic process
+1e-04 turquoise GO:1901360 organic cyclic compound metabolic process
+1e-04 turquoise GO:1901362 organic cyclic compound biosynthetic process
+0.0147 turquoise GO:1901564 organonitrogen compound metabolic process
+0.0311 turquoise GO:1901566 organonitrogen compound biosynthetic process
+0 turquoise GO:1901575 organic substance catabolic process
+0 turquoise GO:1901576 organic substance biosynthetic process
+0.0199 turquoise GO:1901700 response to oxygen-containing compound
+0.0297 turquoise GO:1902410 mitotic cytokinetic process
+7e-04 turquoise GO:1902578 single-organism localization
+0.0129 turquoise GO:1902580 single-organism cellular localization
+0.0129 turquoise GO:1902582 single-organism intracellular transport
+0.028 turquoise GO:1902589 single-organism organelle organization
+0.0405 turquoise GO:1902679 negative regulation of RNA biosynthetic process
+0.0018 turquoise GO:1903506 regulation of nucleic acid-templated transcription
+0.0405 turquoise GO:1903507 negative regulation of nucleic acid-templated transcription
+0.0297 turquoise GO:1990267 response to transition metal nanoparticle
+0.0284 turquoise GO:2000026 regulation of multicellular organismal development
+7e-04 turquoise GO:2000112 regulation of cellular macromolecule biosynthetic process
+0.0283 turquoise GO:2000113 negative regulation of cellular macromolecule biosynthetic process
+0.0442 turquoise GO:2000241 regulation of reproductive process
+0.0215 turquoise GO:2000242 negative regulation of reproductive process
+0.0018 turquoise GO:2001141 regulation of RNA biosynthetic process

@@ -1,0 +1,51 @@
+Common loci hybridized by At & Spartina arrays = 7566
+
+######## Extract xenomic Arabidopsis locus IDs hybridized by the three arrays #######
+Xenomic Arabidopsis loci hybridized by arrays = 239:
+61 alpha/beta Hydrolases
+13 GSTs
+87 GTs
+49 ABC transporters
+29 CYP450
+0 malonyltransferases
+
+######## Search for DE xenomic genes in Arabidopsis #######
+Number of xenomic DE genes in Dumas et al 2016 = 10
+Number of xenomic DE genes in Weisman et al 2010 = 15
+Number of xenomic DE genes combined from Dumas & Weisman = 22
+######## Search for DE xenomic genes in Spartina #######
+Number of xenomic DE genes in Alvarez = 75
+
+Spartina contigs related to the 239 xenomic Arabidopsis loci = 437:
+99 alpha/beta Hydrolases related spartina contigs
+18 GSTs related spartina contigs
+193 GTs related spartina contigs
+92 ABC transporters related spartina contigs
+35 CYP450 related spartina contigs
+0 malonyltransferases related spartina contigs
+Number of spartina related contigs to 75 xenomic contigs DE in Alvarez = 99
+
+######## DE xenomic genes enrichment analysis #######
+######## DE xenomic genes (At loci) in Dumas & Weisman by family analysis:
+3/61 alpha/beta Hydrolases
+4/13 GSTs
+7/87 GTs
+4/49 ABC transporters
+4/29 CYP450
+0/0 malonyltransferases
+
+######## DE related contigs to 75 xenomic contigs DE in Alvarez by family analysis:
+26/99 alpha/beta Hydrolases
+6/18 GSTs
+49/193 GTs
+14/92 ABC transporters
+4/35 CYP450
+0/0 malonyltransferases
+
+######## Make comparisons & output files #######
+
+######### COMPARISONS #########
+Total of DE xenomic genes in Spartina & Arabidopsis = 91
+At DE genes common to the 3 studies = 6 (7 spartina contigs)
+At DE genes only in dumas & weisman = 16
+At DE genes only in alvarez = 69 (92 spartina contigs)

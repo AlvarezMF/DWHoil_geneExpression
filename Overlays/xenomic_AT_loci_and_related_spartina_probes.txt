@@ -1,0 +1,220 @@
+family	At IDs	related_spartina_contigs
+glycosyltransferase gene family	AT4G14100	S_5sp_contig45177
+cytochrome P450 family	AT1G13110	"S_alt_contig10535; S_alt_contig10540"
+alpha/beta-Hydrolases superfamily protein	AT3G23600	"S_5sp_contig40375; S_alt_contig03240_RC"
+ABC transporter family	AT3G47730	"S_alt_contig04503; S_alt_contig05968"
+alpha/beta-Hydrolases superfamily protein	AT4G30610	S_5sp_contig33415_RC
+alpha/beta-Hydrolases superfamily protein	AT5G53050	"S_5sp_contig30082_RC; S_5sp_contig14375; S_5sp_contig49365_RC"
+cytochrome P450 family	AT4G15110	S_5sp_contig42681
+glutathione S-transferase gene family	AT2G02390	"S_5sp_contig44107; S_alt_contig01355"
+glycosyltransferase gene family	AT1G43620	S_5sp_contig44608
+alpha/beta-Hydrolases superfamily protein	AT3G52570	S_5sp_contig42725
+ABC transporter family	AT3G21250	S_5sp_contig38429
+glycosyltransferase gene family	AT1G71070	"S_5sp_contig40070; S_5sp_contig43555; S_alt_contig01039"
+glycosyltransferase gene family	AT3G25140	S_5sp_contig41749
+alpha/beta-Hydrolases superfamily protein	AT3G19970	"S_5sp_contig39368_RC; S_5sp_contig44118"
+glycosyltransferase gene family	AT4G00300	S_alt_contig10816_RC
+cytochrome P450 family	AT2G45580	S_5sp_contig42347_RC
+alpha/beta-Hydrolases superfamily protein	AT3G48090	S_alt_contig09023
+ABC transporter family	AT1G04120	"S_alt_contig05885_RC; S_alt_contig06317_RC"
+glutathione S-transferase gene family	AT1G10360	"S_5sp_contig48963; S_5sp_contig50133"
+glycosyltransferase gene family	AT5G05170	"S_alt_contig05503; S_alt_contig05504; S_alt_contig08772; S_alt_contig10411; S_alt_contig10806; S_alt_contig16526; S_alt_contig00311; S_alt_contig00906"
+alpha/beta-Hydrolases superfamily protein	AT2G47630	S_mar_contig02951_RC
+glycosyltransferase gene family	AT4G38240	"S_alt_contig00167_RC; S_alt_contig01104"
+glycosyltransferase gene family	AT2G36770	S_5sp_contig22738
+glycosyltransferase gene family	AT1G77810	S_5sp_contig44286_RC
+glycosyltransferase gene family	AT5G20410	"S_alt_contig09381; S_alt_contig09382; S_alt_contig10393"
+alpha/beta-Hydrolases superfamily protein	AT5G11650	S_5sp_contig40951
+alpha/beta-Hydrolases superfamily protein	AT4G02340	"S_5sp_contig22781; S_alt_contig01564; S_alt_contig02172"
+alpha/beta-Hydrolases superfamily protein	AT2G03140	S_alt_contig06586
+glycosyltransferase gene family	AT1G78580	"S_alt_contig07444; S_alt_contig02054_RC"
+glycosyltransferase gene family	AT5G64740	"S_alt_contig04013; S_alt_contig05245; S_alt_contig05246; S_alt_contig05799; S_alt_contig15062; S_alt_contig02212; S_5sp_contig05099"
+ABC transporter family	AT3G28345	"S_5sp_contig40853; S_5sp_contig46151_RC"
+glycosyltransferase gene family	AT1G78280	S_alt_contig02990
+glycosyltransferase gene family	AT1G16900	S_5sp_contig29142
+alpha/beta-Hydrolases superfamily protein	AT1G47480	S_5sp_contig50786
+ABC transporter family	AT4G04770	S_alt_contig02463
+glycosyltransferase gene family	AT1G11720	"S_alt_contig00625_RC; S_alt_contig01238"
+alpha/beta-Hydrolases superfamily protein	AT4G25770	"S_5sp_contig41146_RC; S_5sp_contig41327_RC"
+alpha/beta-Hydrolases superfamily protein	AT5G20060	"S_5sp_contig30696_RC; S_5sp_contig30697_RC; S_5sp_contig30698_RC; S_alt_contig01922_RC"
+alpha/beta-Hydrolases superfamily protein	AT2G24280	S_5sp_contig44299
+glycosyltransferase gene family	AT1G55850	S_5sp_contig38658
+cytochrome P450 family	AT2G44890	S_5sp_contig45070
+glycosyltransferase gene family	AT4G19900	"S_5sp_contig14942; S_5sp_contig14943; S_5sp_contig14946"
+ABC transporter family	AT3G47740	S_alt_contig01620
+glycosyltransferase gene family	AT2G37090	S_5sp_contig43702
+glutathione S-transferase gene family	AT1G75270	S_5sp_contig33312
+ABC transporter family	AT1G64550	"S_mar_contig02694; S_alt_contig00627_RC"
+ABC transporter family	AT1G65410	"S_5sp_contig31848; S_5sp_contig43842"
+cytochrome P450 family	AT3G14660	S_5sp_contig45425
+ABC transporter family	AT5G02270	"S_5sp_contig32547; S_5sp_contig32549"
+glycosyltransferase gene family	AT5G03770	S_5sp_contig41471
+alpha/beta-Hydrolases superfamily protein	AT5G37710	S_5sp_contig41877
+glycosyltransferase gene family	AT1G05570	"S_5sp_contig25762; S_5sp_contig38594_RC; S_5sp_contig39055; S_5sp_contig40215; S_alt_contig00186"
+glycosyltransferase gene family	AT4G18240	"S_alt_contig07044; S_5sp_contig41360; S_5sp_contig45343; S_5sp_contig17812"
+alpha/beta-Hydrolases superfamily protein	AT3G30380	"S_alt_contig08662; S_5sp_contig42514"
+ABC transporter family	AT1G66950	"S_alt_contig05725; S_5sp_contig42106_RC; S_5sp_contig19440; S_alt_contig02869"
+ABC transporter family	AT1G02520	"S_alt_contig04323; S_alt_contig02302"
+alpha/beta-Hydrolases superfamily protein	AT1G10740	"S_5sp_contig29007; S_5sp_contig29009"
+glutathione S-transferase gene family	AT3G55040	S_5sp_contig39641
+glycosyltransferase gene family	AT3G59100	"S_alt_contig06346; S_5sp_contig48737"
+ABC transporter family	AT5G64840	S_alt_contig05763
+alpha/beta-Hydrolases superfamily protein	AT5G16120	S_alt_contig10041
+ABC transporter family	AT3G55320	"S_alt_contig10403_RC; S_alt_contig10611; S_5sp_contig31254"
+glycosyltransferase gene family	AT5G14850	"S_mar_contig08125_RC; S_mar_contig08126; S_5sp_contig42871_RC"
+glycosyltransferase gene family	AT4G32410	"S_alt_contig04787; S_alt_contig09573; S_alt_contig12548; S_alt_contig12549; S_alt_contig12550; S_alt_contig00776; S_alt_contig03214"
+alpha/beta-Hydrolases superfamily protein	AT5G36210	"S_alt_contig08337_RC; S_alt_contig12706; S_alt_contig00340_RC"
+alpha/beta-Hydrolases superfamily protein	AT5G19850	S_5sp_contig42571
+alpha/beta-Hydrolases superfamily protein	AT1G34340	"S_5sp_contig23344_RC; S_alt_contig01369"
+glycosyltransferase gene family	AT3G61130	"S_mar_contig01568; S_alt_contig00795"
+glycosyltransferase gene family	AT3G18660	"S_5sp_contig11461; S_5sp_contig11462"
+ABC transporter family	AT3G10670	S_mar_contig08380
+cytochrome P450 family	AT2G45550	"S_alt_contig04165; S_mar_contig01173"
+ABC transporter family	AT5G39040	S_alt_contig08676
+glycosyltransferase gene family	AT5G04500	"S_alt_contig07980; S_5sp_contig31668; S_alt_contig00981"
+glycosyltransferase gene family	AT3G46970	"S_alt_contig05911; S_alt_contig00477_RC"
+glutathione S-transferase gene family	AT5G16710	"S_mar_contig10448; S_5sp_contig41061"
+glycosyltransferase gene family	AT3G45100	S_5sp_contig33741
+alpha/beta-Hydrolases superfamily protein	AT3G23570	"S_5sp_contig26531; S_5sp_contig33687"
+alpha/beta-Hydrolases superfamily protein	AT5G27320	S_alt_contig12572
+ABC transporter family	AT4G33460	S_alt_contig08849
+ABC transporter family	AT4G25450	S_5sp_contig29238
+glycosyltransferase gene family	AT1G53290	S_5sp_contig00791_RC
+glycosyltransferase gene family	AT2G20810	"S_alt_contig03890_RC; S_alt_contig08161_RC"
+glycosyltransferase gene family	AT1G16570	"S_alt_contig12410_RC; S_5sp_contig04310; S_5sp_contig04325"
+ABC transporter family	AT3G47780	S_alt_contig01469_RC
+alpha/beta-Hydrolases superfamily protein	AT5G25770	S_alt_contig01240_RC
+glutathione S-transferase gene family	AT2G30870	S_5sp_contig42637_RC
+cytochrome P450 family	AT1G75130	S_5sp_contig41306
+glycosyltransferase gene family	AT1G27600	"S_mar_contig03671_RC; S_5sp_contig36966; S_5sp_contig47677"
+alpha/beta-Hydrolases superfamily protein	AT2G44970	"S_alt_contig04977; S_alt_contig04978"
+glycosyltransferase gene family	AT1G70090	S_5sp_contig36088
+alpha/beta-Hydrolases superfamily protein	AT3G51000	S_alt_contig04419
+glycosyltransferase gene family	AT2G36750	"S_5sp_contig44705; S_5sp_contig48236"
+alpha/beta-Hydrolases superfamily protein	AT5G38220	S_alt_contig10655
+ABC transporter family	AT5G60790	"S_alt_contig06885_RC; S_alt_contig10407_RC; S_alt_contig12755_RC; S_alt_contig03305"
+ABC transporter family	AT1G17840	"S_5sp_contig41811; S_5sp_contig43245; S_5sp_contig45412_RC"
+alpha/beta-Hydrolases superfamily protein	AT1G74640	S_5sp_contig21951_RC
+ABC transporter family	AT5G06530	S_5sp_contig29667
+glycosyltransferase gene family	AT1G60140	"S_alt_contig11291_RC; S_alt_contig13753; S_alt_contig01992_RC; S_alt_contig02365_RC"
+cytochrome P450 family	AT5G24910	"S_5sp_contig46578; S_alt_contig01593_RC"
+ABC transporter family	AT1G54350	S_5sp_contig31428
+glycosyltransferase gene family	AT3G07170	"S_alt_contig11933_RC; S_5sp_contig39314_RC; S_5sp_contig15586"
+ABC transporter family	AT5G14100	S_5sp_contig39840_RC
+alpha/beta-Hydrolases superfamily protein	AT1G80280	"S_5sp_contig40062_RC; S_alt_contig01563_RC"
+cytochrome P450 family	AT3G13730	S_5sp_contig41681
+cytochrome P450 family	AT2G45560	S_5sp_contig47691
+glycosyltransferase gene family	AT5G47780	S_5sp_contig42351_RC
+alpha/beta-Hydrolases superfamily protein	AT4G12230	S_5sp_contig39073_RC
+alpha/beta-Hydrolases superfamily protein	AT4G19860	S_alt_contig09680
+glycosyltransferase gene family	AT4G31780	S_5sp_contig46147
+glycosyltransferase gene family	AT1G03520	S_5sp_contig48365
+alpha/beta-Hydrolases superfamily protein	AT5G17670	S_5sp_contig33228
+alpha/beta-Hydrolases superfamily protein	AT5G51180	"S_alt_contig10559_RC; S_5sp_contig30351; S_5sp_contig41607; S_alt_contig03349"
+glycosyltransferase gene family	AT1G05680	S_5sp_contig34074
+alpha/beta-Hydrolases superfamily protein	AT3G61540	S_alt_contig13168
+alpha/beta-Hydrolases superfamily protein	AT5G18640	"S_alt_contig08272; S_alt_contig09726; S_5sp_contig29457_RC; S_5sp_contig29459_RC; S_5sp_contig39557; S_5sp_contig43387; S_alt_contig02864; S_alt_contig03079; S_alt_contig03367"
+cytochrome P450 family	AT3G53130	S_alt_contig03941
+glycosyltransferase gene family	AT4G07960	"S_5sp_contig44753; S_alt_contig00176_RC"
+alpha/beta-Hydrolases superfamily protein	AT1G52700	S_alt_contig02879
+cytochrome P450 family	AT3G14690	S_alt_contig03134
+glycosyltransferase gene family	AT1G05170	S_alt_contig03657
+cytochrome P450 family	AT2G46950	S_alt_contig00449_RC
+glycosyltransferase gene family	AT4G21060	S_alt_contig02701
+cytochrome P450 family	AT5G42650	S_5sp_contig50797
+ABC transporter family	AT2G37280	S_5sp_contig48989
+ABC transporter family	AT2G07680	S_5sp_contig39015_RC
+alpha/beta-Hydrolases superfamily protein	AT2G42450	"S_5sp_contig31368; S_5sp_contig31369"
+alpha/beta-Hydrolases superfamily protein	AT4G34310	"S_5sp_contig39075_RC; S_5sp_contig43333; S_5sp_contig43816"
+glycosyltransferase gene family	AT4G00550	"S_alt_contig08332; S_mar_contig06424; S_mar_contig07212; S_5sp_contig42069_RC; S_5sp_contig42223"
+alpha/beta-Hydrolases superfamily protein	AT2G32520	S_5sp_contig31194
+glycosyltransferase gene family	AT1G19710	S_5sp_contig25906
+glutathione S-transferase gene family	AT1G78380	"S_alt_contig12744; S_alt_contig12745"
+glutathione S-transferase gene family	AT3G62760	S_alt_contig15107
+glycosyltransferase gene family	AT2G43820	S_5sp_contig34075
+alpha/beta-Hydrolases superfamily protein	AT5G20520	"S_5sp_contig13101; S_5sp_contig13102"
+alpha/beta-Hydrolases superfamily protein	AT3G49050	S_alt_contig03100_RC
+glycosyltransferase gene family	AT3G11540	"S_alt_contig06590_RC; S_alt_contig03387_RC"
+glutathione S-transferase gene family	AT1G59700	S_alt_contig08302_RC
+glycosyltransferase gene family	AT1G32900	"S_alt_contig05998; S_5sp_contig11372_RC"
+ABC transporter family	AT5G60740	"S_5sp_contig21819; S_alt_contig11362_RC; S_alt_contig11363; S_5sp_contig42071"
+alpha/beta-Hydrolases superfamily protein	AT4G12830	S_5sp_contig40383
+glycosyltransferase gene family	AT3G43190	"S_5sp_contig05674_RC; S_alt_contig08328_RC; S_alt_contig13419; S_alt_contig13565"
+glycosyltransferase gene family	AT1G71990	"S_5sp_contig15216_RC; S_5sp_contig15217_RC; S_5sp_contig15219_RC"
+cytochrome P450 family	AT1G13080	S_alt_contig03608_RC
+ABC transporter family	AT4G39850	"S_alt_contig05499_RC; S_alt_contig08404; S_alt_contig00528; S_alt_contig01880; S_alt_contig02680_RC"
+glycosyltransferase gene family	AT3G15350	S_5sp_contig41218
+ABC transporter family	AT3G62700	"S_5sp_contig21044; S_5sp_contig21045"
+glycosyltransferase gene family	AT4G03550	"S_alt_contig06602_RC; S_alt_contig10344_RC; S_alt_contig00780_RC"
+ABC transporter family	AT3G55090	"S_5sp_contig48167; S_5sp_contig48426"
+glycosyltransferase gene family	AT3G27540	"S_alt_contig11842; S_alt_contig11843; S_alt_contig03136"
+glycosyltransferase gene family	AT5G07720	S_alt_contig01017
+ABC transporter family	AT2G01320	S_5sp_contig39884_RC
+glutathione S-transferase gene family	AT5G41210	"S_alt_contig06551_RC; S_alt_contig00498_RC"
+ABC transporter family	AT2G34660	"S_alt_contig09067_RC; S_5sp_contig11505; S_alt_contig01990_RC"
+alpha/beta-Hydrolases superfamily protein	AT4G31020	S_5sp_contig43033
+alpha/beta-Hydrolases superfamily protein	AT5G50890	S_5sp_contig46828
+cytochrome P450 family	AT3G14620	S_alt_contig15712
+cytochrome P450 family	AT1G31800	"S_alt_contig06290_RC; S_alt_contig14366_RC; S_alt_contig14369_RC"
+glycosyltransferase gene family	AT2G38650	"S_5sp_contig24598_RC; S_5sp_contig24599_RC; S_5sp_contig33894_RC; S_5sp_contig33895_RC; S_5sp_contig40969_RC; S_5sp_contig41349; S_5sp_contig45332_RC"
+ABC transporter family	AT1G15520	"S_alt_contig04230; S_alt_contig05489; S_alt_contig10585; S_5sp_contig44832_RC; S_alt_contig01166_RC; S_alt_contig02455; S_alt_contig02801; S_alt_contig02977"
+glycosyltransferase gene family	AT1G08660	S_5sp_contig40646
+glycosyltransferase gene family	AT1G06490	S_5sp_contig42052
+glycosyltransferase gene family	AT3G29320	S_alt_contig03028
+glycosyltransferase gene family	AT2G32530	S_5sp_contig42560
+ABC transporter family	AT1G32500	S_alt_contig03280_RC
+ABC transporter family	AT2G47800	"S_alt_contig11215; S_5sp_contig21048"
+alpha/beta-Hydrolases superfamily protein	AT3G11620	S_5sp_contig20269
+ABC transporter family	AT2G47000	"S_5sp_contig22422_RC; S_5sp_contig39419_RC"
+glycosyltransferase gene family	AT4G18780	S_5sp_contig45450
+alpha/beta-Hydrolases superfamily protein	AT3G23540	"S_alt_contig08881; S_alt_contig14156; S_alt_contig15427; S_alt_contig03216"
+cytochrome P450 family	AT1G11680	S_5sp_contig42944
+glycosyltransferase gene family	AT3G01040	S_alt_contig10286
+glycosyltransferase gene family	AT4G38270	"S_mar_contig00253_RC; S_5sp_contig31453"
+glycosyltransferase gene family	AT2G36850	"S_alt_contig06297; S_alt_contig00397_RC"
+cytochrome P450 family	AT3G26280	S_5sp_contig43477
+cytochrome P450 family	AT2G46960	S_alt_contig03495_RC
+cytochrome P450 family	AT5G23190	"S_5sp_contig47284; S_5sp_contig50190"
+glycosyltransferase gene family	AT4G16600	S_alt_contig11793
+glycosyltransferase gene family	AT3G16520	"S_5sp_contig23334; S_5sp_contig23335; S_5sp_contig23338; S_5sp_contig36729; S_5sp_contig46846"
+alpha/beta-Hydrolases superfamily protein	AT4G24160	S_alt_contig03113
+cytochrome P450 family	AT5G05690	S_5sp_contig26718
+glycosyltransferase gene family	AT2G37730	S_alt_contig03652
+ABC transporter family	AT3G59140	"S_alt_contig09582_RC; S_alt_contig00588; S_alt_contig03230_RC"
+alpha/beta-Hydrolases superfamily protein	AT4G24760	S_alt_contig03063
+glycosyltransferase gene family	AT1G04920	"S_alt_contig13350; S_alt_contig16473"
+alpha/beta-Hydrolases superfamily protein	AT4G37470	S_alt_contig12469
+glycosyltransferase gene family	AT3G07020	S_5sp_contig25174
+glycosyltransferase gene family	AT1G49710	S_alt_contig06992
+glycosyltransferase gene family	AT3G04240	"S_alt_contig09475; S_alt_contig09476"
+cytochrome P450 family	AT1G19630	S_5sp_contig46816
+glycosyltransferase gene family	AT5G01220	"S_alt_contig04014_RC; S_5sp_contig25578"
+ABC transporter family	AT1G03900	S_alt_contig10714
+glycosyltransferase gene family	AT5G03760	"S_5sp_contig26226; S_5sp_contig38853"
+glycosyltransferase gene family	AT1G06410	"S_alt_contig07821; S_mar_contig05281; S_5sp_contig39596; S_alt_contig00704"
+ABC transporter family	AT1G03905	S_alt_contig03692_RC
+alpha/beta-Hydrolases superfamily protein	AT2G36290	S_5sp_contig47978
+glycosyltransferase gene family	AT4G02280	S_alt_contig00886
+ABC transporter family	AT5G58270	S_alt_contig10137
+ABC transporter family	AT3G62150	S_alt_contig07187
+ABC transporter family	AT3G16340	S_alt_contig01689_RC
+glycosyltransferase gene family	AT3G62720	S_alt_contig12882
+alpha/beta-Hydrolases superfamily protein	AT1G52510	S_5sp_contig42769
+glycosyltransferase gene family	AT3G11670	"S_5sp_contig40296_RC; S_alt_contig01197; S_5sp_contig19685; S_5sp_contig19688"
+cytochrome P450 family	AT5G25900	S_5sp_contig47295
+ABC transporter family	AT3G54540	S_alt_contig10813
+glycosyltransferase gene family	AT5G53340	S_alt_contig04532_RC
+alpha/beta-Hydrolases superfamily protein	AT3G27320	S_alt_contig13074
+ABC transporter family	AT1G70610	S_alt_contig12917
+alpha/beta-Hydrolases superfamily protein	AT4G17150	S_alt_contig08990_RC
+cytochrome P450 family	AT5G25140	S_5sp_contig43194
+glutathione S-transferase gene family	AT3G03190	S_5sp_contig41609
+ABC transporter family	AT4G19210	S_alt_contig02671
+glycosyltransferase gene family	AT5G20280	"S_5sp_contig27660; S_5sp_contig27661; S_5sp_contig39604"
+glycosyltransferase gene family	AT2G35710	S_5sp_contig40044
+glycosyltransferase gene family	AT3G14570	"S_alt_contig06565; S_alt_contig12738"
+glycosyltransferase gene family	AT5G13000	"S_alt_contig04958; S_alt_contig06047; S_alt_contig06108; S_alt_contig12446; S_alt_contig01729; S_alt_contig02631; S_alt_contig03709"
+alpha/beta-Hydrolases superfamily protein	AT1G73920	S_alt_contig01053
+alpha/beta-Hydrolases superfamily protein	AT1G73480	"S_5sp_contig31383; S_5sp_contig31384; S_5sp_contig31385"
+ABC transporter family	AT2G28070	S_5sp_contig38711
+cytochrome P450 family	AT3G26230	S_5sp_contig45175

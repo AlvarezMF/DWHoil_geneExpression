@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "#EpiGBS formatting script\n#Written by Marta Robertson with a very tiny amount of help from Mariano Alvarez\n#April 25, 2016\n\nlibrary(pnmath0)\nsetwd('~/documents/code/r/EpiGBSformatter')\nmydata = data.frame(read.table(\"methylation.bed\", sep=\"\\t\", header=TRUE))\nNames3<-as.vector(grep(\"total\", names(mydata), value = TRUE))\nnames(mydata)[names(mydata)==\"pos\"]<-\"pos_start\"\nmydata[\"pos_end\"]<-NA\nmydata$context <- as.character(mydata$context)\nmydata$pos_end <- mydata$pos_start + nchar(mydata$context)\n\n\nw <- mydata[,1:2]\nx <- cbind(w, mydata[ncol(mydata)])\n\ncount = 1\nother_counter = 6\nfor (i in (5:ncol(mydata))) {\n    if (other_counter %% 2 == 0 ) {\n      y <- cbind(x, mydata[i], mydata[other_counter])\n      y[\"meth_total\"] <- sprintf(\"'%.4s/%.4s'\",y[,4],y[,5])\n      y[\"shading\"] <- round(as.numeric(paste(y[,4]))/as.numeric(paste(y[,5]))*1000)\n      y[,5] <- NULL\n      y[,4] <- NULL\n      y<-na.omit(y)\n      write.table(y, paste(\"PctMeth_\", Names3[count], \".bed\", sep=\"\"), sep=\"\\t\", row.names=FALSE)\n      count = count + 1\n    }\n  other_counter = other_counter + 1\n}\n\n#y\n#z <- as.matrix(y)\n#z\n\n#write.table(z, \"justaquicktest.txt\", sep = \"\\t\", row.names=FALSE)\n",
+    "created" : 1475009238257.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4184631864",
+    "id" : "A1D5AD1",
+    "lastKnownWriteTime" : 1468942570,
+    "last_content_update" : 1468942570,
+    "path" : "/Volumes/Rdrive/R/EpiGBSformatter/BedConversion2.R",
+    "project_path" : null,
+    "properties" : {
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,21 @@
+GO.ID	Term	Annotated	Significant	Expected	Q.value
+GO:0006084	acetyl-CoA metabolic process	13	11	5.27	0.07693671024428
+GO:0006637	acyl-CoA metabolic process	13	11	5.27	0.07693671024428
+GO:0008150	biological_process	1138	480	461.19	0.07693671024428
+GO:0009058	biosynthetic process	481	218	194.93	0.07693671024428
+GO:0009699	phenylpropanoid biosynthetic process	13	10	5.27	0.07693671024428
+GO:0009888	tissue development	97	50	39.31	0.07693671024428
+GO:0019222	regulation of metabolic process	152	75	61.6	0.07693671024428
+GO:0035383	thioester metabolic process	13	11	5.27	0.07693671024428
+GO:0044237	cellular metabolic process	666	294	269.91	0.07693671024428
+GO:0044249	cellular biosynthetic process	445	205	180.34	0.07693671024428
+GO:0044699	single-organism process	658	296	266.66	0.07693671024428
+GO:0044763	single-organism cellular process	556	252	225.33	0.07693671024428
+GO:1901576	organic substance biosynthetic process	452	206	183.18	0.07693671024428
+GO:0072330	monocarboxylic acid biosynthetic process	45	23	18.24	0.0785260321153186
+GO:0008152	metabolic process	725	316	293.82	0.0883751253814995
+GO:0044710	single-organism metabolic process	405	187	164.13	0.0883751253814995
+GO:0016125	sterol metabolic process	16	12	6.48	0.0892203040166596
+GO:0019752	carboxylic acid metabolic process	176	84	71.33	0.0892203040166596
+GO:0040007	growth	81	46	32.83	0.0892203040166596
+GO:0046394	carboxylic acid biosynthetic process	70	33	28.37	0.0892203040166596

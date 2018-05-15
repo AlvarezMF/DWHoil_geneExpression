@@ -1,0 +1,17 @@
+Common loci hybridized in At & Spartina arrays = 7566
+
+######## Search for all DE genes in Arabidopsis #######
+Number of total DE genes in Dumas et al 2016 = 467
+Number of total DE genes in Weisman et al 2010 = 1074
+Number of total DE genes combined from Dumas & Weisman = 1426
+Number of total DE genes combined from Dumas & Weisman = 526 among the 7566 hybridized between arrays.
+
+######## Search for all DE genes in Spartina #######
+Number of total DE probes in Alvarez, with At annotations = 3082
+Number of total At loci annotated to all DE probes in Alvarez  = 2431
+Number of total DE probes AT annotations from Alvarez = 2417 among the 7566 hybridized between arrays.
+
+######## Make comparisons & output files #######
+Common DE AT loci between Dumas&Weisman and Alvarez= 187
+Only DE AT loci in Dumas&Weisman = 339
+Only DE AT loci in Alvarez = 2230
